@@ -41,7 +41,10 @@ https://drive.google.com/file/d/1q-1gzEVZBoVJE9d8gz6w07wOD3KsQUJi/view?usp=shari
 
 👥 Team Members
 
-Mallolu yaswanth 
-Shaik jalaluddin 
-Shaik ansari
-Garlapati ashok babu
+Mallolu Yaswanth
+
+Shaik Jalaluddin
+
+Shaik Ansari
+
+Garlapati Ashok Babu
