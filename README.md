@@ -25,8 +25,12 @@ StudyBuddy is an AI-powered learning platform designed to help students improve 
 * Base44 (AI App Builder)
 
 ## 📸 Screenshots
+https://drive.google.com/file/d/1Oh4wazyZ0Opb1HY4kZwYFtW3DamAPkE6/view?usp=drivesdk
 
-(Add your screenshot here)
+🎥 Project Demo Video
+🚀 Click below to watch full working demo:
+
+👉 https://drive.google.com/file/d/1Oh4wazyZ0Opb1HY4kZwYFtW3DamAPkE6/view?usp=sharing
 
 ## 🚀 Future Improvements
 
